@@ -1,4 +1,4 @@
-# Setting Up Python Environment on Ubuntu
+# Setting Up Python Environment
 This guide will walk you through setting up Python 3 on your system using Visual Studio Code (VSCode) and GitHub.
 
 ## Installing Python3
